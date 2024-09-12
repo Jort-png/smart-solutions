@@ -1,0 +1,23 @@
+nav a{
+    text-decoration: none;
+    border: solid 1px black;
+    margin: 10px;
+}
+nav{
+    size: 100px;
+}
+h1{
+text-align: center;    
+}
+p{
+display: flex;
+text-align: center;
+
+}
+body{
+    background-color: chartreuse;
+}
+.wrapper{
+    padding-left: 700px ;
+    padding-right: 700px;
+}
